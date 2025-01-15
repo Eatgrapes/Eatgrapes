@@ -8,7 +8,7 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 - 💼 I’m a **freelancer**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: **Eatgrapes232@gmail.com**
-- ⚡ Fun fact: **I love playing Minecraft**
+- ⚡ Fun fact: **I love playing Minecraft and watching VTuber Neuro Sama**
 
 ## 🛠️ Technologies and Tools
 
@@ -23,5 +23,9 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:Eatgrapes232@gmail.com)
+
+## 🎮 Favorite VTuber: Neuro Sama
+
+![Neuro Sama](https://i.pximg.net/img-original/img/2023/01/09/22/40/25/104388410_p3.png)
 
 Thanks for visiting my profile! 😄
