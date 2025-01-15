@@ -8,7 +8,7 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 - 💼 I’m a **freelancer**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: **Eatgrapes232@gmail.com**
-- ⚡ Fun fact: **I love playing Minecraft and watching VTuber Neuro Sama**
+- ⚡ Fun fact: **I love playing Minecraft**
 
 ## 🛠️ Technologies and Tools
 
