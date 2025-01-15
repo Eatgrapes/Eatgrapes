@@ -26,6 +26,6 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 
 ## 🎮 Favorite VTuber: Neuro Sama
 
-![Neuro Sama](https://i.pximg.net/img-original/img/2023/01/09/22/40/25/104388410_p3.png)
+![Neuro Sama](https://s21.ax1x.com/2025/01/15/pEFuNrD.png)
 
 Thanks for visiting my profile! 😄
