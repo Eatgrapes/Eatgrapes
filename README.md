@@ -23,6 +23,8 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:Eatgrapes232@gmail.com)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat&logo=bilibili)](https://b23.tv/XYw888z)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/Eatgrapes232)
 
 ## 🎮 Favorite VTuber: Neuro Sama
 
