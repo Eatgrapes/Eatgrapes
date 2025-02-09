@@ -26,8 +26,6 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 [![Bilibili](https://img.shields.io/badge/-Bilibili-000000?style=flat&logo=bilibili)](https://b23.tv/XYw888z)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=telegram)](https://t.me/Eatgrapes232)
 
-## 🎮 Favorite VTuber: Neuro Sama
+(https://s21.ax1x.com/2025/01/15/pEFuNrD.png)
 
-![Neuro Sama](https://s21.ax1x.com/2025/01/15/pEFuNrD.png)
-
-Thanks for visiting my profile! 😄
+## Thanks for visiting my profile! 😄
