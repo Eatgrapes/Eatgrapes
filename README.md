@@ -8,7 +8,7 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 - 💼 I’m a **freelancer** ![Freelancer](https://img.shields.io/badge/-Freelancer-05122A?style=flat&logo=fiverr)
 - 💬 Ask me about **Python** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 - 📫 How to reach me: **Eatgrapes232@gmail.com** ![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)
-- ⚡ Fun fact: **I love playing Minecraft** ![Minecraft](https://img.shields.io/badge/-Minecraft-05122A?style=flat&logo=minecraft) ** 
+- ⚡ Fun fact: **I love playing Minecraft** ![Minecraft](https://img.shields.io/badge/-Minecraft-05122A?style=flat&logo=minecraft)
 
 ## 🛠️ Technologies and Tools
 
@@ -25,5 +25,9 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:Eatgrapes232@gmail.com)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-000000?style=flat&logo=bilibili)](https://b23.tv/XYw888z)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=telegram)](https://t.me/Eatgrapes232)
+
+## Moe Counter
+
+![Visitor Count](https://count.getloli.com/get/@Eatgrapes?theme=booru-lewd)
 
 ## Thanks for visiting my profile!
