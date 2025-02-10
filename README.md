@@ -4,9 +4,9 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Python** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-- 💼 I’m a **freelancer** ![Freelancer](https://img.shields.io/badge/-Freelancer-05122A?style=flat&logo=fiverr)
-- 💬 Ask me about **Python** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+- 💼 I’m a ![Freelancer](https://img.shields.io/badge/-Freelancer-05122A?style=flat&logo=fiverr)
+- 💬 Ask me about ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 - 📫 How to reach me: **Eatgrapes232@gmail.com**
 - ⚡ Fun fact: **I love playing Minecraft**
 
