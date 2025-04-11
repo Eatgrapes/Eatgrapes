@@ -28,6 +28,6 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 
 ## Moe Counter
 
-![Visitor Count](https://count.getloli.com/get/@Eatgrapes?theme=booru-lewd)
+![:Moe Counter](https://count.getloli.com/@:booru-lewd)
 
 ## Thanks for visiting my profile!
