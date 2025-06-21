@@ -4,7 +4,7 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 - 💼 I’m a ![Freelancer](https://img.shields.io/badge/-Freelancer-05122A?style=flat&logo=fiverr)
 - 💬 Ask me about ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 - 📫 How to reach me: **Eatgrapes232@gmail.com**
@@ -12,9 +12,12 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 
 ## 🛠️ Technologies and Tools
 
+I'm currently learning:
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+
 ## 📊 GitHub Stats
 
 ![Eatgrapes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eatgrapes&show_icons=true&hide_border=true)&nbsp;
