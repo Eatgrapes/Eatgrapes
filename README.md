@@ -16,7 +16,7 @@ I'm currently learning:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 
 ## 📊 GitHub Stats
 
