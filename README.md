@@ -13,8 +13,8 @@ I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit
 ## 🛠️ Technologies and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ## 📊 GitHub Stats
 
 ![Eatgrapes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eatgrapes&show_icons=true&hide_border=true)&nbsp;
