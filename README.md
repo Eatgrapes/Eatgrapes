@@ -1,11 +1,10 @@
 # Hi there, welcome to my GitHub profile! 👋
 
-I'm Eatgrapes, a freelancer who loves coding and playing Minecraft. Here's a bit more about me:
+I'm Eatgrapes, a person who loves coding and playing games. Here's a bit more about me:
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-- 💼 I’m a ![Freelancer](https://img.shields.io/badge/-Freelancer-05122A?style=flat&logo=fiverr)
 - 💬 Ask me about ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 - 📫 How to reach me: **Eatgrapes232@gmail.com**
 - ⚡ Fun fact: **I love playing Minecraft**
