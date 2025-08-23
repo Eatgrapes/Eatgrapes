@@ -1,23 +1,14 @@
-# Hi there, welcome to my GitHub profile! 👋
+## used ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+## Main Language ![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 
-I'm Eatgrapes, a person who loves coding and playing games. Here's a bit more about me:
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-- 💬 Ask me about ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-- 📫 How to reach me: **Eatgrapes232@gmail.com**
-- ⚡ Fun fact: **I love playing Minecraft**
-
-## 🛠️ Technologies and Tools
-
-I'm currently learning:
+### learning:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-Cpp-05122A?style=flat&logo=cpp)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
 
-## 📊 GitHub Stats
+## Stats
 
 ![Eatgrapes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eatgrapes&show_icons=true&hide_border=true)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eatgrapes&layout=compact&hide_border=true)
