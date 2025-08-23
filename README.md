@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
 
