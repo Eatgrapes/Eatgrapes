@@ -18,10 +18,9 @@
 
 ### Connect
 
-![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)
-![Bilibili](https://img.shields.io/badge/-Bilibili-05122A?style=flat&logo=bilibili)
-![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)
-
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:eatgrapes232@gmail.com)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-05122A?style=flat&logo=bilibili)](https://b23.tv/hJopfV9)
+[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/Eatgrapes232)
 ### Visitor Count
 
 ![Visitor Count](https://count.getloli.com/get/@Eatgrapes?theme=moebooru)
