@@ -13,6 +13,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
+![Haskell](https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=haskell)
 
 ### Tools
 
