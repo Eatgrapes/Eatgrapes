@@ -20,8 +20,7 @@
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eatgrapes&show_icons=true&hide_border=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eatgrapes&layout=compact&hide_border=true&theme=dark)
+![GitHub Metrics](https://github.com/Eatgrapes/Eatgrapes/blob/main/github-metrics.svg)
 
 ### Connect
 
