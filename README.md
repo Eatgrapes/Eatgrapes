@@ -1,5 +1,3 @@
-## Hello
-
 ### Primary Languages
 
 ![Chinese](https://img.shields.io/badge/-Chinese-05122A?style=flat&logo=china)
@@ -19,6 +17,11 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eatgrapes&show_icons=true&hide_border=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eatgrapes&layout=compact&hide_border=true&theme=dark)
 
 ### Connect
 
