@@ -18,10 +18,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
 
-### Stats
-
-![GitHub Metrics](https://github.com/Eatgrapes/Eatgrapes/blob/main/github-metrics.svg)
-
 ### Connect
 
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:eatgrapes232@gmail.com)
