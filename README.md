@@ -20,8 +20,16 @@
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eatgrapes&show_icons=true&hide_border=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eatgrapes&layout=compact&hide_border=true&theme=dark)
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=193054206" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=193054206&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Eatgrapes" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=193054206&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ### Connect
 
