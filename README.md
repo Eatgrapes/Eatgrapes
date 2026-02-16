@@ -1,33 +1,29 @@
-### Primary Languages
+<div align="center">
 
-![Chinese](https://img.shields.io/badge/-Chinese-05122A?style=flat&logo=china)
-![English](https://img.shields.io/badge/-English-05122A?style=flat&logo=united-kingdom)
+<h1>Hello</h1>
 
 ### Programming Languages
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
-![Haskell](https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=haskell)
+<img src="https://skillicons.dev/icons?i=html,python,c,js,ts,java,cpp,kotlin,haskell&perline=8" />
 
-### Tools
+### Tools & IDEs
 
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)
-![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
+<img src="https://skillicons.dev/icons?i=idea,ubuntu,git,github,vscode,linux,windows&perline=8" />
 
 ### Stats
 
-![Eatgrapes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eatgrapes&show_icons=true&theme=tokyonight)
+<img src="https://streak-stats.demolab.com/?user=Eatgrapes&theme=tokyonight&hide_border=true&border_radius=20" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eatgrapes&theme=tokyonight&bg_color=1a1b27&color=79c0ff&line=79c0ff&point=ff7b72&area=true&hide_border=true" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 
 ### Connect
 
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:eatgrapes232@gmail.com)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-05122A?style=flat&logo=bilibili)](https://b23.tv/hJopfV9)
-[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/Eatgrapes232)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eatgrapes232@gmail.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/hJopfV9)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Eatgrapes232)
 
 ### Visitor Count
 
-![Visitor Count](https://count.getloli.com/get/@Eatgrapes?theme=moebooru)
+<img src="https://count.getloli.com/get/@Eatgrapes?theme=moebooru" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+
+</div>
