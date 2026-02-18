@@ -4,7 +4,7 @@
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,python,c,js,ts,java,cpp,kotlin,haskell&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,python,c,js,ts,java,cpp,kotlin,haskell,markdown&perline=8" />
 
 ### Tools & IDEs
 
