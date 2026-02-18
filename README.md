@@ -4,11 +4,11 @@
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,python,c,js,ts,java,cpp,kotlin,haskell&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,python,c,js,ts,java,cpp,kotlin,haskell&perline=8" />
 
 ### Tools & IDEs
 
-<img src="https://skillicons.dev/icons?i=idea,ubuntu,git,github,vscode,linux,windows&perline=8" />
+<img src="https://skillicons.dev/icons?i=idea,ubuntu,git,github,vscode,linux,windows,gradle,maven&perline=8" />
 
 ### Stats
 
