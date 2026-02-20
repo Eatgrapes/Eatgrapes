@@ -8,7 +8,7 @@
 
 ### Tools & IDEs
 
-<img src="https://skillicons.dev/icons?i=idea,ubuntu,git,github,vscode,linux,windows,gradle,maven&perline=8" />
+<img src="https://skillicons.dev/icons?i=idea,ubuntu,git,github,vscode,linux,windows,gradle,maven,nodejs&perline=8" />
 
 ### Stats
 
