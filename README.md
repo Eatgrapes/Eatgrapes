@@ -22,6 +22,15 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://b23.tv/hJopfV9)
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Eatgrapes232)
 
+### Support
+
+<a href="https://github.com/Eatgrapes/Eatgrapes/blob/main/1772541801153_084328.jpg" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Support Me" style="height: 60px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+</a>
+
+<br>
+
+
 ### Visitor Count
 
 <img src="https://count.getloli.com/get/@Eatgrapes?theme=moebooru" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
