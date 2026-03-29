@@ -24,7 +24,7 @@
 
 ### Support
 
-<a href="https://github.com/Eatgrapes/Eatgrapes/blob/main/1772541801153_084328.jpg" target="_blank">
+<a href="https://tanikaze.icu/Donate_to_me/" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Support Me" style="height: 60px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
 </a>
 
